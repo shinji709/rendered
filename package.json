@@ -1,0 +1,30 @@
+{
+  "name": "rendered",
+  "version": "0.1.0",
+  "description": "A filter command: HTML text incl. inline JS to be processed by Chromium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinji709/rendered.git"
+  },
+  "keywords": [
+    "node",
+    "cli",
+    "filter",
+    "javascript",
+    "html",
+    "puppeteer"
+  ],
+  "author": "shinji709",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shinji709/rendered/issues"
+  },
+  "homepage": "https://github.com/shinji709/rendered#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}

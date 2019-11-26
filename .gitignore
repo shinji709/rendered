@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# Disabling lock files (https://www.twilio.com/blog/lockfiles-nodejs)
+yarn.lock
+package-lock.json
