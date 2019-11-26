@@ -1,6 +1,6 @@
 {
   "name": "rendered",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A filter command: HTML text incl. inline JS to be processed by Chromium",
   "main": "index.js",
   "bin": "index.js",
